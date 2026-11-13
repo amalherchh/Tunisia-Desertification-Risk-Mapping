@@ -58,7 +58,7 @@ The predicted national distribution closely reproduced the DRI-derived reference
 The differences between the two distributions remained below one percentage point per class.
 
 <p align="center">
-  <img src="https://github.com/amalherchh/AI-Desertification-Risk-Mapping-Tunisia/blob/main/map.png?raw=true" alt="Tunisia Desertification Risk Map" width="800">
+  <img src=["https://github.com/amalherchh/AI-Desertification-Risk-Mapping-Tunisia/blob/main/map.png?raw=true"](https://github.com/amalherchh/Tunisia-Desertification-Risk-Mapping/blob/main/map.png?raw=true) alt="Tunisia Desertification Risk Map" width="800">
 </p>
 
 ### Out-of-region validation
