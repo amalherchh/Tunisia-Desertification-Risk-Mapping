@@ -1,5 +1,7 @@
 # Tunisia Desertification Risk Mapping
-
+<p align="center">
+  <img src="https://github.com/amalherchh/Tunisia-Desertification-Risk-Mapping/blob/main/img.jpeg?raw=true" alt="Tunisia Desertification Risk Mapping" width="850">
+</p>
 AI-based desertification and land degradation risk mapping for Tunisia using satellite imagery, climate data, and machine learning. Built as a layer within **SmartSDG Tunisia**, supporting SDG 15 (Life on Land, Target 15.3) and SDG 13 (Climate Action).
 
 An internship project (Manouba School of Engineering, Ecological Engineering) by **Amal Herch**, supervised by **Ali Ben Abbes**, Academic Year 2025–2026.
