@@ -129,23 +129,14 @@ Remote sensing & Earth observation · geospatial data engineering · weak-superv
 
 ## Repository structure
 ```
-├── code.ipynb        # full pipeline: cleaning → features → DRI → ML → validation → forecast
 ├── RESULTS.md        # full tables, per-governorate results
 ├── img.jpeg
 └── README.md
 ```
 
-## Reproduce
-```bash
-git clone https://github.com/amalherchh/Tunisia-Desertification-Risk-Mapping.git
-cd Tunisia-Desertification-Risk-Mapping
-pip install geopandas pandas numpy scipy scikit-learn xgboost shap statsmodels jenkspy matplotlib seaborn
-jupyter notebook code.ipynb
-```
-> Update the data path in the first cells to your local GeoPackage.
 
 ## References
 Saaty (1980), AHP · Breiman (2001), Random Forests · Chen & Guestrin (2016), XGBoost · Lundberg & Lee (2017), SHAP · Jenks (1967), Natural Breaks · Sentinel-2, CHIRPS, ERA5-Land documentation · UNCCD SDG Indicator 15.3.1 Guidance
 
 ---
-**Amal Herch**, 2025–2026 · [LinkedIn](#) · [Email](#)
+**Amal Herch**, 2025–2026 
