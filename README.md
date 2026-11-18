@@ -9,7 +9,7 @@
 Built as a layer of **SmartSDG Tunisia**, supporting **SDG 15.3** (Land Degradation Neutrality) and **SDG 13** (Climate Action).
 Internship project, Manouba School of Engineering (Ecological Engineering), 2025–2026, by **Amal Herch**, supervised by **Ali Ben Abbes**.
 
-📄 Full results and tables: [`RESULTS.md`](./RESULTS.md)
+Full results and tables: [`RESULTS.md`](./RESULTS.md)
 
 ---
 
